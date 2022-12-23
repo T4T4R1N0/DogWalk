@@ -11,11 +11,11 @@
 
 Примеры конкурентов
 
-[Примерная диаграмма архитектура сайта](https://github.com/T4T4R1N0/lab3/blob/main/docs/diagramm.png)
+[Примерная диаграмма архитектура сайта](https://github.com/T4T4R1N0/DogWalk/blob/main/docs/diagramm.png)
 
 ## Примеры аналогов
 ### dog-walk.ru
-(![image](https://user-images.githubusercontent.com/121173541/209409885-3d3dd440-88d5-470e-ad5a-52c30bef282e.png)
+![image](https://user-images.githubusercontent.com/121173541/209409885-3d3dd440-88d5-470e-ad5a-52c30bef282e.png)
 
 ### guldog.ru
 ![image](https://user-images.githubusercontent.com/121173541/209409922-eef4daa3-3de7-4578-8132-c3698d8ab4e7.png)
