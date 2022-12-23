@@ -1,6 +1,6 @@
 # lab3
 
-Цель проекта: Создания приложение для поиска пропавших питомцев и доска объявлений о них 
+Цель проекта: Создания приложение для поиска пропавших питомцев 
 
 Описание
 
@@ -17,11 +17,11 @@
 [Примерная диаграмма архитектура сайта](https://github.com/T4T4R1N0/lab3/blob/main/doks/diagramm.png "architecture.md")
 
 ## Примеры аналогов
-### poiskzverei.ru
+### pet911.ru
+![image](https://user-images.githubusercontent.com/121173541/209407354-a4dcd78d-6aa8-43e3-8e6c-1083d8856b61.png)
 
-![Screenshot_1](https://user-images.githubusercontent.com/95981303/208715158-de101075-2c89-4fa3-b655-1e90a49decc3.jpg)
-### kotipes74.ru
-![image](https://user-images.githubusercontent.com/95981303/208715257-3146963c-08ed-4713-a134-a8204746b4a4.png)
+### multcopets.org
+![image](https://user-images.githubusercontent.com/121173541/209407530-2b67117b-25ed-4aea-86b9-f6b098b8f1e5.png)
 
 ### helppet.ru
 ![image](https://user-images.githubusercontent.com/95981303/208715353-8d27aa14-288e-4be5-97f7-d54808193e57.png)
