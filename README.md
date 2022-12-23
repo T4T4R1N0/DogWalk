@@ -14,7 +14,7 @@
 
 Примеры конкурентов
 
-[Примерная диаграмма архитектура сайта](https://github.com/arkilbog/best-site/blob/main/doks/diagramm.png "architecture.md")
+[Примерная диаграмма архитектура сайта](https://github.com/T4T4R1N0/lab3/blob/main/doks/diagramm.png "architecture.md")
 
 ## Примеры аналогов
 ### pet911.ru
